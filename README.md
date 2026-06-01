@@ -62,16 +62,33 @@
 <div align="center">
   <br/>
   
-  <!-- Perfectly Aligned 8x2 Grid -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,figma,vercel,nodejs,express,mongodb,php,laravel,git,github,vscode&theme=dark&perline=8" alt="Tech Stack"/>
-  </a>
+  <!-- Frontend Icons with Premium Spacing -->
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" />
+  
+  <br/><br/>
+  
+  <!-- Backend Icons with Premium Spacing -->
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" />
   
   <br/><br/><br/>
   
-  <!-- Stable Top Languages Card -->
+  <!-- Premium & Stable GitHub Streak Card -->
   <a href="https://github.com/krishh2001">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishh2001&layout=compact&hide_border=true&bg_color=000428&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&card_width=495" alt="Top Languages"/>
+    <img src="https://streak-stats.demolab.com?user=krishh2001&theme=dark&background=000428&ring=00b4d8&fire=00b4d8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
   </a>
 </div>
 <br/><br/>
