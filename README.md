@@ -62,26 +62,18 @@
 <div align="center">
   <br/>
   
-  <!-- Frontend & Design Icons -->
+  <!-- Perfectly Aligned 8x2 Grid -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,tailwind,vite,html,css,figma&theme=dark" alt="Frontend Tech"/>
-  </a>
-  
-  <br/><br/>
-  
-  <!-- Backend, Database & Tools Icons -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,laravel,git,github,vscode,vercel&theme=dark" alt="Backend and Tools"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,figma,vercel,nodejs,express,mongodb,php,laravel,git,github,vscode&theme=dark&perline=8" alt="Tech Stack"/>
   </a>
   
   <br/><br/><br/>
   
-  <!-- Upgraded Top Languages Card -->
+  <!-- Stable Top Languages Card -->
   <a href="https://github.com/krishh2001">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishh2001&layout=donut&hide_border=true&bg_color=000428&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&card_width=495" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishh2001&layout=compact&hide_border=true&bg_color=000428&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&card_width=495" alt="Top Languages"/>
   </a>
 </div>
-
 <br/><br/>
 
 ## 📬 Connect With Me
