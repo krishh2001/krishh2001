@@ -51,7 +51,6 @@
 
 * **Glabol** - A comprehensive travel platform featuring complex trip-processing flows, international menus, and seamless booking sidebars.
 * **Symbiotec** - A corporate biotechnology portal with dynamic board governance grids and interactive facility animations.
-* **Gaming Zone Arena (BattleX)** - A dedicated esports platform complete with tournament result dashboards and integrated payment gateways.
 * **Aurex** - A complete digital transformation brand identity and cloud engineering portfolio.
 
 <br/>
