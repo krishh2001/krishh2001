@@ -86,11 +86,7 @@
   
   <br/><br/><br/>
   
-  <!-- Premium & Stable GitHub Streak Card -->
-  <a href="https://github.com/krishh2001">
-    <img src="https://streak-stats.demolab.com?user=krishh2001&theme=dark&background=000428&ring=00b4d8&fire=00b4d8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=ffffff&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</div>
+ 
 <br/><br/>
 
 ## 📬 Connect With Me
