@@ -12,13 +12,9 @@
 <div align="center">
   <img src="https://hits.sh/github.com/krishh2001/krishh2001.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=000428&labelColor=000115&logo=github&logoColor=00b4d8" alt="Profile Views"/>
   &nbsp;
-  <a href="https://github.com/krishh2001?tab=followers">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/krishh2001&query=%24.followers&label=FOLLOWERS&style=for-the-badge&logo=github&labelColor=000115&color=000428&logoColor=00b4d8" alt="GitHub followers"/>
-  </a>
+  <a href="https://github.com/krishh2001?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/krishh2001&query=%24.followers&label=FOLLOWERS&style=for-the-badge&logo=github&labelColor=000115&color=000428&logoColor=00b4d8" alt="GitHub followers"/></a>
   &nbsp;
-  <a href="https://github.com/krishh2001">
-    <img src="https://img.shields.io/github/stars/krishh2001?style=for-the-badge&logo=github&labelColor=000115&color=000428&logoColor=00b4d8" alt="GitHub User's stars"/>
-  </a>
+  <a href="https://github.com/krishh2001"><img src="https://img.shields.io/github/stars/krishh2001?style=for-the-badge&logo=github&labelColor=000115&color=000428&logoColor=00b4d8" alt="GitHub User's stars"/></a>
 </div>
 
 <br/><br/>
@@ -81,17 +77,11 @@
 
 <div align="center">
   <br/>
-  <a href="mailto:vishnu18rajput@gmail.com">
-    <img src="https://img.shields.io/badge/Drop_a_Mail-000428?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=000115" alt="Email" height="42">
-  </a>
+  <a href="mailto:vishnu18rajput@gmail.com"><img src="https://img.shields.io/badge/Drop_a_Mail-000428?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=000115" alt="Email" height="42"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://vishnuportfolio.gt.tc">
-    <img src="https://img.shields.io/badge/Live_Portfolio-000428?style=for-the-badge&logo=google-chrome&logoColor=00b4d8&labelColor=000115" alt="Portfolio" height="42">
-  </a>
+  <a href="https://vishnuportfolio.gt.tc"><img src="https://img.shields.io/badge/Live_Portfolio-000428?style=for-the-badge&logo=google-chrome&logoColor=00b4d8&labelColor=000115" alt="Portfolio" height="42"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/krishh2001">
-    <img src="https://img.shields.io/badge/GitHub_Profile-000428?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=000115" alt="GitHub" height="42">
-  </a>
+  <a href="https://github.com/krishh2001"><img src="https://img.shields.io/badge/GitHub_Profile-000428?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=000115" alt="GitHub" height="42"></a>
 </div>
 
 
