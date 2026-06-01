@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000428,100:004e92&text=Vishnu%20Rajput&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&fontSize=30&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20•%20Premium%20Digital%20Experiences&descAlignY=58&descAlign=50&fontColor=ffffff" alt="Vishnu Rajput - Header" width="100%"/>
 </div>
 
-<br/>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00b4d8&center=true&vCenter=true&width=700&lines=Engineering+Scalable+Web+Applications;MERN+Stack+%26+Laravel+Expert;Crafting+Futuristic+High-Performance+UIs;Clean+Code+•+Stunning+Design+•+Optimal+Performance" alt="Typing SVG"/>
@@ -60,7 +60,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <br/>
+  <br/><br/>
   
   <!-- Frontend Icons with Premium Spacing -->
   <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" /> &nbsp;&nbsp;&nbsp;
@@ -106,10 +106,9 @@
   </a>
 </div>
 
-<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:004e92,100:000428&section=footer&reversal=false" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:004e92,100:000428&section=footer&reversal=false" alt="Footer Wave" width="100%"/>
   <br/>
  
 </div>
