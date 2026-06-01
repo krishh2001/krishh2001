@@ -72,7 +72,7 @@
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /> &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" />
   
-  <br/><br/>
+  <br/>
   
   <!-- Backend Icons with Premium Spacing -->
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /> &nbsp;&nbsp;&nbsp;
