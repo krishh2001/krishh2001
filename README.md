@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,100:00b4d8&text=Vishnu%20Rajput&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20•%20Premium%20Digital%20Experiences&descAlignY=58&descAlign=50&fontColor=ffffff" alt="Vishnu Rajput - Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000428,100:004e92&text=Vishnu%20Rajput&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20•%20Premium%20Digital%20Experiences&descAlignY=58&descAlign=50&fontColor=ffffff" alt="Vishnu Rajput - Header"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=Engineering+Scalable+Web+Applications;MERN+Stack+%26+Laravel+Expert;Crafting+Futuristic+High-Performance+UIs;Clean+Code+•+Stunning+Design+•+Optimal+Performance" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00b4d8&center=true&vCenter=true&width=700&lines=Engineering+Scalable+Web+Applications;MERN+Stack+%26+Laravel+Expert;Crafting+Futuristic+High-Performance+UIs;Clean+Code+•+Stunning+Design+•+Optimal+Performance" alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishh2001&label=Profile+Views&color=64FFDA&labelColor=0D1117&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=krishh2001&label=Profile+Views&color=00b4d8&labelColor=000428&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/krishh2001?style=for-the-badge&logo=github&color=64FFDA&labelColor=0D1117" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/followers/krishh2001?style=for-the-badge&logo=github&color=00b4d8&labelColor=000428" alt="GitHub followers"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/krishh2001?style=for-the-badge&logo=github&color=64FFDA&labelColor=0D1117" alt="GitHub User's stars"/>
+  <img src="https://img.shields.io/github/stars/krishh2001?style=for-the-badge&logo=github&color=00b4d8&labelColor=000428" alt="GitHub User's stars"/>
 </div>
 
 <br/><br/>
@@ -63,7 +63,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,php,laravel,tailwind,vite,html,css,git,github,vscode,figma,vercel&perline=8" alt="Tech Stack"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishh2001&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=8892B0&icon_color=64FFDA&card_width=495" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishh2001&layout=compact&hide_border=true&bg_color=000428&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&card_width=495" alt="Top Languages"/>
 </div>
 
 <br/><br/>
@@ -72,22 +72,22 @@
 
 <div align="center">
   <a href="mailto:vishnu18rajput@gmail.com">
-    <img src="https://img.shields.io/badge/vishnu18rajput@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email">
+    <img src="https://img.shields.io/badge/vishnu18rajput@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000428" alt="Email">
   </a>
   &nbsp;
   <a href="https://vishnuportfolio.gt.tc">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000428" alt="Portfolio">
   </a>
   &nbsp;
   <a href="https://github.com/krishh2001">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000428" alt="GitHub">
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00b4d8,100:0D1117&section=footer&reversal=false" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:004e92,100:000428&section=footer&reversal=false" alt="Footer Wave"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Premium+Digital+Experiences;Let's+Build+Something+Amazing+Together" alt="Quote"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00b4d8&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Premium+Digital+Experiences;Let's+Build+Something+Amazing+Together" alt="Quote"/>
 </div>
