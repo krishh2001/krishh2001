@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Engineering+Scalable+Web+Applications;MERN+Stack+%26+Laravel+Expert;Crafting+Futuristic,+High-Performance+UIs;Clean+Code+•+Stunning+Design+•+Optimal+Performance" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=Engineering+Scalable+Web+Applications;MERN+Stack+%26+Laravel+Expert;Crafting+Futuristic+High-Performance+UIs;Clean+Code+•+Stunning+Design+•+Optimal+Performance" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -18,11 +18,7 @@
   <img src="https://img.shields.io/github/stars/krishh2001?style=for-the-badge&logo=github&color=64FFDA&labelColor=0D1117" alt="GitHub User's stars"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="divider">
-</div>
+<br/><br/>
 
 ## ⚡ About Me
 
@@ -50,16 +46,16 @@
   </table>
 </div>
 
+<br/>
+
 ## 🚀 Featured Engineering
 
-*   **Glabol** - A comprehensive travel platform featuring complex trip-processing flows, international menus, and seamless booking sidebars.
-*   **Symbiotec** - A corporate biotechnology portal with dynamic board governance grids and interactive facility animations.
-*   **Gaming Zone Arena (BattleX)** - A dedicated esports platform complete with tournament result dashboards and integrated payment gateways.
-*   **Aurex** - A complete digital transformation brand identity and cloud engineering portfolio.
+* **Glabol** - A comprehensive travel platform featuring complex trip-processing flows, international menus, and seamless booking sidebars.
+* **Symbiotec** - A corporate biotechnology portal with dynamic board governance grids and interactive facility animations.
+* **Gaming Zone Arena (BattleX)** - A dedicated esports platform complete with tournament result dashboards and integrated payment gateways.
+* **Aurex** - A complete digital transformation brand identity and cloud engineering portfolio.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="divider">
-</div>
+<br/>
 
 ## 🛠️ Tech Stack & Tools
 
@@ -70,11 +66,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishh2001&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=8892B0&icon_color=64FFDA&card_width=495" alt="Top Languages"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="divider">
-</div>
+<br/><br/>
 
 ## 📬 Connect With Me
 
@@ -97,5 +89,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00b4d8,100:0D1117&section=footer&reversal=false" alt="Footer Wave"/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Premium+Digital+Experiences;Let's+Build+Something+Amazing+Together" alt="Quote"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Premium+Digital+Experiences;Let's+Build+Something+Amazing+Together" alt="Quote"/>
 </div>
