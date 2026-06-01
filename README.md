@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000428,100:004e92&text=Vishnu%20Rajput&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20•%20Premium%20Digital%20Experiences&descAlignY=58&descAlign=50&fontColor=ffffff" alt="Vishnu Rajput - Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000428,100:004e92&text=Vishnu%20Rajput&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&fontSize=30&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20•%20Premium%20Digital%20Experiences&descAlignY=58&descAlign=50&fontColor=ffffff" alt="Vishnu Rajput - Header" width="100%"/>
 </div>
 
 <br/>
@@ -72,7 +72,7 @@
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /> &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" />
   
-  <br/>
+
   
   <!-- Backend Icons with Premium Spacing -->
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /> &nbsp;&nbsp;&nbsp;
@@ -84,7 +84,7 @@
   <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /> &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" />
   
-  <br/><br/><br/>
+ 
   
  
 <br/><br/>
@@ -111,5 +111,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:004e92,100:000428&section=footer&reversal=false" alt="Footer Wave"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00b4d8&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Premium+Digital+Experiences;Let's+Build+Something+Amazing+Together" alt="Quote"/>
+ 
 </div>
