@@ -61,9 +61,25 @@
 
 <div align="center">
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,php,laravel,tailwind,vite,html,css,git,github,vscode,figma,vercel&perline=8" alt="Tech Stack"/>
+  
+  <!-- Frontend & Design Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,tailwind,vite,html,css,figma&theme=dark" alt="Frontend Tech"/>
+  </a>
+  
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishh2001&layout=compact&hide_border=true&bg_color=000428&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&card_width=495" alt="Top Languages"/>
+  
+  <!-- Backend, Database & Tools Icons -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php,laravel,git,github,vscode,vercel&theme=dark" alt="Backend and Tools"/>
+  </a>
+  
+  <br/><br/><br/>
+  
+  <!-- Upgraded Top Languages Card -->
+  <a href="https://github.com/krishh2001">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishh2001&layout=donut&hide_border=true&bg_color=000428&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&card_width=495" alt="Top Languages"/>
+  </a>
 </div>
 
 <br/><br/>
@@ -71,16 +87,17 @@
 ## 📬 Connect With Me
 
 <div align="center">
+  <br/>
   <a href="mailto:vishnu18rajput@gmail.com">
-    <img src="https://img.shields.io/badge/vishnu18rajput@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000428" alt="Email">
+    <img src="https://img.shields.io/badge/Drop_a_Mail-000428?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=000115" alt="Email" height="42">
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://vishnuportfolio.gt.tc">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000428" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Live_Portfolio-000428?style=for-the-badge&logo=google-chrome&logoColor=00b4d8&labelColor=000115" alt="Portfolio" height="42">
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/krishh2001">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000428" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub_Profile-000428?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=000115" alt="GitHub" height="42">
   </a>
 </div>
 
