@@ -1,27 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0D1117&text=Vishnu%20Rajput&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&fontSize=55&fontAlignY=35&fontColor=64FFDA&desc=Full%20Stack%20Web%20Developer%20•%20Futuristic%20UI%20•%20Digital%20Architect&descAlignY=58&descAlign=50&descColor=8892B0" alt="Vishnu Rajput - Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,100:00b4d8&text=Vishnu%20Rajput&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&fontSize=55&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20•%20Premium%20Digital%20Experiences&descAlignY=58&descAlign=50&fontColor=ffffff" alt="Vishnu Rajput - Header"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Building+Premium+Digital+Experiences;Architecting+Scalable+MERN+%26+Laravel+Apps;Crafting+Futuristic+Web+Aesthetics;Clean+Code+•+Stunning+UI+•+Optimal+Performance" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Engineering+Scalable+Web+Applications;MERN+Stack+%26+Laravel+Expert;Crafting+Futuristic,+High-Performance+UIs;Clean+Code+•+Stunning+Design+•+Optimal+Performance" alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/krishh2001">
-    <img src="https://komarev.com/ghpvc/?username=krishh2001&label=Profile+Views&color=0891b2&style=for-the-badge" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=krishh2001&label=Profile+Views&color=64FFDA&labelColor=0D1117&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
-  <a href="https://github.com/krishh2001?tab=followers">
-    <img src="https://img.shields.io/github/followers/krishh2001?style=for-the-badge&logo=github&color=0D1117&labelColor=0D1117&logoColor=64FFDA" alt="GitHub followers"/>
-  </a>
+  <img src="https://img.shields.io/github/followers/krishh2001?style=for-the-badge&logo=github&color=64FFDA&labelColor=0D1117" alt="GitHub followers"/>
   &nbsp;
-  <a href="https://github.com/krishh2001?tab=stars">
-    <img src="https://img.shields.io/github/stars/krishh2001?style=for-the-badge&logo=github&color=0D1117&labelColor=0D1117&logoColor=64FFDA" alt="GitHub User's stars"/>
-  </a>
+  <img src="https://img.shields.io/github/stars/krishh2001?style=for-the-badge&logo=github&color=64FFDA&labelColor=0D1117" alt="GitHub User's stars"/>
 </div>
 
 <br/>
@@ -37,41 +31,43 @@
     <tr>
       <td width="60%">
         <p align="left">
-          I craft premium digital experiences with clean code and stunning design. Passionate about building scalable, high-performance web applications with a focus on dark, modern, and immersive aesthetics.
+          <b>Hello World! I'm Vishnu.</b> 
         </p>
         <p align="left">
-          ✦ <b>Focus:</b> Building premium web apps & interactive 3D interfaces<br/>
-          ✦ <b>Stack:</b> React, Node.js, Laravel, MongoDB & Advanced Animations<br/>
-          ✦ <b>Approach:</b> Clean UI/UX, glassmorphism, & modern design systems<br/>
-          ✦ <b>Location:</b> Based in Indore, collaborating globally<br/>
-          ✦ <b>Status:</b> Open for freelance & startup collaborations
+          I specialize in engineering premium digital platforms, blending robust backend architecture with sleek, futuristic frontend aesthetics. From complex trip-processing flows to high-performance esports dashboards, I focus on scalable solutions that deliver a flawless user experience.
+        </p>
+        <p align="left">
+          ▹ <b>Focus:</b> Building premium websites, web apps, and immersive digital platforms<br/>
+          ▹ <b>Core Stack:</b> MongoDB, Express, React, Node.js & Laravel<br/>
+          ▹ <b>Aesthetic:</b> High-end UIs, glassmorphism, and dynamic animations<br/>
+          ▹ <b>Current Vibe:</b> Crafting scalable, high-performance solutions for modern brands<br/>
         </p>
       </td>
-      <td width="40%" align="center">
-        <!-- Replaced the chaotic GIF with a cleaner, premium dark-mode geometric animation -->
-        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="90%" alt="Coding animation" style="border-radius: 10px;">
+      <td width="40%">
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding animation">
       </td>
     </tr>
   </table>
 </div>
 
-<br/>
+## 🚀 Featured Engineering
+
+*   **Glabol** - A comprehensive travel platform featuring complex trip-processing flows, international menus, and seamless booking sidebars.
+*   **Symbiotec** - A corporate biotechnology portal with dynamic board governance grids and interactive facility animations.
+*   **Gaming Zone Arena (BattleX)** - A dedicated esports platform complete with tournament result dashboards and integrated payment gateways.
+*   **Aurex** - A complete digital transformation brand identity and cloud engineering portfolio.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="divider">
 </div>
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
   <br/>
-  <!-- Added ThreeJS, Vercel, and optimized the layout -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,php,laravel,threejs,git,github,vercel,vscode,figma&perline=8" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,php,laravel,tailwind,vite,html,css,git,github,vscode,figma,vercel&perline=8" alt="Tech Stack"/>
   <br/><br/>
-  
-  <a href="https://github.com/krishh2001">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishh2001&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=8892B0&icon_color=64FFDA&card_width=495" alt="Top Languages"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishh2001&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=8892B0&icon_color=64FFDA&card_width=495" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -80,26 +76,26 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="divider">
 </div>
 
-## 🌐 Let's Connect
+## 📬 Connect With Me
 
 <div align="center">
   <a href="mailto:vishnu18rajput@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=64FFDA&border=64FFDA" alt="Email">
+    <img src="https://img.shields.io/badge/vishnu18rajput@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email">
   </a>
   &nbsp;
   <a href="https://vishnuportfolio.gt.tc">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=64FFDA" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" alt="Portfolio">
   </a>
   &nbsp;
   <a href="https://github.com/krishh2001">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=64FFDA" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub">
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0D1117&section=footer&reversal=false" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00b4d8,100:0D1117&section=footer&reversal=false" alt="Footer Wave"/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=8892B0&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Premium+Digital+Experiences;Let's+Build+Something+Amazing+Together" alt="Quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Premium+Digital+Experiences;Let's+Build+Something+Amazing+Together" alt="Quote"/>
 </div>
