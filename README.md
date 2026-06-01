@@ -31,12 +31,12 @@
         <p align="left">
           I specialize in engineering premium digital platforms, blending robust backend architecture with sleek, futuristic frontend aesthetics. From complex trip-processing flows to high-performance esports dashboards, I focus on scalable solutions that deliver a flawless user experience.
         </p>
-        <p align="left">
-          ▹ <b>Focus:</b> Building premium websites, web apps, and immersive digital platforms<br/>
-          ▹ <b>Core Stack:</b> MongoDB, Express, React, Node.js & Laravel<br/>
-          ▹ <b>Aesthetic:</b> High-end UIs, glassmorphism, and dynamic animations<br/>
-          ▹ <b>Current Vibe:</b> Crafting scalable, high-performance solutions for modern brands<br/>
-        </p>
+       <p align="left">
+  • <b>Focus:</b> Building premium websites, web apps, and immersive digital platforms<br/>
+  • <b>Core Stack:</b> MongoDB, Express, React, Node.js & Laravel<br/>
+  • <b>Aesthetic:</b> High-end UIs, glassmorphism, and dynamic animations<br/>
+  • <b>Current Vibe:</b> Scalable, high-performance solutions for modern brands<br/>
+</p>
       </td>
       <td width="40%">
         <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding animation">
@@ -48,10 +48,11 @@
 <br/>
 
 ## 🚀 Featured Engineering
+<br/>
 
-* **Glabol** - A comprehensive travel platform featuring complex trip-processing flows, international menus, and seamless booking sidebars.
-* **Symbiotec** - A corporate biotechnology portal with dynamic board governance grids and interactive facility animations.
-* **Aurex** - A complete digital transformation brand identity and cloud engineering portfolio.
+* **Symbiotec** - Enterprise biotechnology platform for a global pharmaceutical manufacturer, showcasing research, manufacturing, and regulatory excellence.
+* **Livinda** - A premium confectionery and chocolate manufacturing platform showcasing global product lines, luxury brand experiences, interactive product journeys, and worldwide distribution presence..
+* **Aurex** - Digital transformation portfolio focused on modern web applications, cloud engineering, and premium digital experiences.
 
 <br/>
 
