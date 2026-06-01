@@ -3,12 +3,11 @@
 </div>
 
 
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Engineering+Scalable+Web+Applications;MERN+Stack+%26+Laravel+Expert;Crafting+Futuristic+High-Performance+UIs;Clean+Code+•+Stunning+Design+•+Optimal+Performance" alt="Typing SVG"/>
-</div>
+</div> -->
 
-<br/>
+<!-- <br/> -->
 
 <div align="center">
   <img src="https://hits.sh/github.com/krishh2001/krishh2001.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=000428&labelColor=000115&logo=github&logoColor=00b4d8" alt="Profile Views"/>
