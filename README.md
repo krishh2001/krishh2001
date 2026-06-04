@@ -47,16 +47,6 @@
 
 <br/>
 
-## 🚀 Featured Engineering
-<br/>
-
-* **Symbiotec** - Enterprise biotechnology platform for a global pharmaceutical manufacturer, showcasing research, manufacturing, and regulatory excellence.
-* **Livinda** - A premium confectionery and chocolate manufacturing platform showcasing global product lines, luxury brand experiences, interactive product journeys, and worldwide distribution presence..
-* **Aurex** - Digital transformation portfolio focused on modern web applications, cloud engineering, and premium digital experiences.
-
-<br/>
-
-## 🛠️ Tech Stack & Tools
 
 <div align="center">
   <br/><br/>
